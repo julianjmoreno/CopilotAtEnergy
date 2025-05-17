@@ -15,7 +15,7 @@ In the energy sector, timely and accurate insights are critical for optimizing a
 + Sample datasets and queries
 + Prompt engineering examples tailored for energy use cases
 + Jupyter notebooks and scripts for data exploration
-+ Integration guides for Azure and Power Platform
++ Integration guides for Azure, Power Platform, Azure Data Manager for Energy, Microsoft Fabric, Copilot
 
 ## My Content / Repos
 
