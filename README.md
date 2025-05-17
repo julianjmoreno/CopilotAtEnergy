@@ -17,8 +17,9 @@ In the energy sector, timely and accurate insights are critical for optimizing a
 + Jupyter notebooks and scripts for data exploration
 + Integration guides for Azure and Power Platform
 
-## Content Available
+## My Content / Repos
 
+| Guides available                                                                  |
 |:---                                                                               |
 | **Chat with my Energy Asset Unstructured Data - Vol 1**                           |
 | https://azure.microsoft.com/en-us/products/data-manager-for-energy                |
