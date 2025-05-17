@@ -22,6 +22,6 @@ In the energy sector, timely and accurate insights are critical for optimizing a
 | Guides available                                                                  |
 |:---                                                                               |
 | **Chat with my Energy Asset Unstructured Data - Vol 1**                           |
-| https://azure.microsoft.com/en-us/products/data-manager-for-energy                |
+| http://github.com/julianjmoreno/EnergyAssetAgent-JustDocs                         |
 | **Chat with my Energy Asset Data - Vol 2**                                        |
 | https://github.com/julianjmoreno/EnergyAssetAgent-ADME                            |
